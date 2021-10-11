@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jlove89
-- 👀 My interests are cars, music, web development, gaming, hockey, paintball, disc golf.
+- 👀 My interests are cars, music, cyber-security, web development, gaming, hockey, paintball, disc golf.
 - 🌱 I’m learning Software Engineering @ NC State Digital Program
 - 💞️ I’ll collaborate with anyone, all the practice I can get definitely helps this newbie!
 - 📫 You can reach me at my email pristinesolutionsnc@gmail.com
