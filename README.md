@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React
 - 👯 Let's Collaborate!
 - 🥅 My Goals: SQL, PostgreSQL, Python, Django, Jira, Asana
-- ⚡ I love to play video-games,!! Learning new things!
+- ⚡ I love computers, disc golf, hockey, gaming and learning new things
 
 ## Skills
 
