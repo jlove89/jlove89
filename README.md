@@ -13,7 +13,7 @@
 - CSS
 - Canva
 - JavaScript
-- UI/UX
+- UI/UX Experience
 - Node.js
 - Express.js
 - Resful API | MVC Acrchitecture
