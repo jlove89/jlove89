@@ -1,6 +1,6 @@
 # Hi, My name is Jeremy!
 
-## Striving to become a full stack web developer!
+## Becoming a full stack web developer!
 
 - 🌱 I’m currently learning React
 - 👯 Let's Collaborate!
