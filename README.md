@@ -2,16 +2,18 @@
 
 ## Striving to become a full stack web developer!
 
-- 🌱 I’m currently learning  React
-- 👯 I’m looking to collaborate in the open source community!
+- 🌱 I’m currently learning React
+- 👯 Let's Collaborate!
 - 🥅 My Goals: SQL, PostgreSQL, Python, Django, Jira, Asana
-- ⚡ I love to play video-games, build gaming computers!! and Crypto Mining and Learn new things!
+- ⚡ I love to play video-games,!! Learning new things!
 
 ## Skills
 
 - HTML
 - CSS
+- Canva
 - JavaScript
+- UI/UX
 - Node.js
 - Express.js
 - Resful API | MVC Acrchitecture
@@ -19,7 +21,6 @@
 - Mongoose.js
 - Git
 - GitHub
-- WSL
 - Bash
 - VSCode
 - Agile | SCRUM methodology
