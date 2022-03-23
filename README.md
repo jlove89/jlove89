@@ -13,12 +13,13 @@
 - CSS
 - Canva
 - JavaScript
-- UI/UX Experience
+- UI/UX Development
 - Node.js
 - Express.js
-- Resful API | MVC Acrchitecture
+- Resful API
 - MongoDB
 - Mongoose.js
+- Heroku
 - Git
 - GitHub
 - Bash
