@@ -9,6 +9,10 @@
 
 ## Skills
 
+- Git
+- GitHub
+- Bash
+- VSCode
 - HTML
 - CSS
 - Canva
@@ -20,10 +24,7 @@
 - MongoDB
 - Mongoose.js
 - Heroku
-- Git
-- GitHub
-- Bash
-- VSCode
+- Jest | Testing
 - Agile | SCRUM methodology
 
 <br />
