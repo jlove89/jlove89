@@ -2,7 +2,7 @@
 
 ## Becoming a full stack web developer!
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning SASS
 - 👯 Let's Collaborate!
 - 🥅 My Goals: SQL, PostgreSQL, Python, Django, Jira, Asana
 - ⚡ I love computers, disc golf, hockey, gaming and learning new things
