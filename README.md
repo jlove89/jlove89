@@ -1,10 +1,10 @@
 # Hi, My name is Jeremy!
 
-## Becoming a full stack web developer!
+## Becoming a Software Engineer!
 
-- 🌱 I’m currently learning SASS
+- 🌱 I’m currently learning TypeScript
 - 👯 Let's Collaborate!
-- 🥅 My Goals: SQL, PostgreSQL, Python, Django, Jira, Asana
+- 🥅 My Goals: SASS, TS, JWTs, XSS
 - ⚡ I love computers, disc golf, hockey, gaming and learning new things
 
 ## Skills
@@ -24,6 +24,7 @@
 - MongoDB
 - Mongoose.js
 - Heroku
+- Postman
 - Jest
 - React | Redux
 - Agile | SCRUM methodology
