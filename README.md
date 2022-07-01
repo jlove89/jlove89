@@ -24,7 +24,7 @@
 - MongoDB
 - Mongoose.js
 - Heroku
-- Jest | Testing
+- Jest
 - React | Redux
 - Agile | SCRUM methodology
 
