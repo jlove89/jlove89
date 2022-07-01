@@ -26,6 +26,7 @@
 - Heroku
 - Postman
 - Jest
+- MERN
 - React | Redux
 - Agile | SCRUM methodology
 
