@@ -1,6 +1,6 @@
 # Hi, My name is Jeremy!
 
-## Becoming a Software Engineer!
+## Software Engineer!
 
 - 🌱 I’m currently learning TypeScript
 - 👯 Let's Collaborate!
