@@ -2,9 +2,9 @@
 
 ## Software Engineer!
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning C++
 - 👯 Let's Collaborate!
-- 🥅 My Goals: SASS, TS, JWTs, XSS
+- 🥅 My Goals: JWTs, XSS, C#, Java
 - ⚡ I love computers, disc golf, hockey, gaming and learning new things
 
 ## Skills
@@ -29,7 +29,8 @@
 - MERN
 - React | Redux
 - Agile | SCRUM methodology
-
+- Typescript
+- SASS
 <br />
 
 ### Languages and Tools:
