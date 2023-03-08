@@ -1,6 +1,6 @@
-# Hi, My name is Jeremy!
+# Hello World, My name is Jeremy!
 
-## Software Engineer!
+## Software Engineer / Full Stack Developer!
 
 - 🌱 I’m currently learning C++
 - 👯 Let's Collaborate!
