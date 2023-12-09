@@ -2,10 +2,10 @@
 
 ## Software Engineer / Full Stack Developer!
 
-- 🌱 I’m currently learning C++
-- 👯 Let's Collaborate!
-- 🥅 My Goals: JWTs, XSS, C#, Java
-- ⚡ I love computers, disc golf, hockey, gaming and learning new things
+- I’m currently learning C++
+- Let's Collaborate!
+- My Goals: JWTs, XSS, C#, Java
+- I love computers, disc golf, hockey, gaming and learning new things
 
 ## Skills
 
